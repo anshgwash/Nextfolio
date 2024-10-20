@@ -1,0 +1,1 @@
+Nextfolio template file
