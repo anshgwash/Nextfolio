@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ansh Gwash",
+    "home_page_url": "https://nextfolio-template.vercel.app/",
+    "feed_url": "https://nextfolio-template.vercel.app/feed.json",
+    "description": "Ansh Gwash Portfolio Page",
+    "items": [
+        {
+            "id": "https://nextfolio-template.vercel.app/blog/first_post",
+            "url": "https://nextfolio-template.vercel.app/blog/first_post",
+            "title": "First Blog Post",
+            "summary": "Hi everyone!",
+            "date_modified": "2024-10-20T00:00:00.000Z",
+            "tags": [
+                "Web Development"
+            ]
+        }
+    ]
+}

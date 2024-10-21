@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nextfolio-template.vercel.app/</id>
+    <title>Ansh Gwash</title>
+    <updated>2024-10-21T01:26:59.854Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://nextfolio-template.vercel.app/"/>
+    <link rel="self" href="https://nextfolio-template.vercel.app/atom.xml"/>
+    <subtitle>Ansh Gwash Portfolio Page</subtitle>
+    <rights>All rights reserved 2024, Ansh Gwash</rights>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://nextfolio-template.vercel.app/blog/first_post</id>
+        <link href="https://nextfolio-template.vercel.app/blog/first_post"/>
+        <updated>2024-10-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone!]]></summary>
+        <category label="Web Development" term="Web Development"/>
+    </entry>
+</feed>
